@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PowerUp
+  - Enemigo
+  - Disparo
+  - KillPlayer
+  - puente
+  - Minion
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Fondo
+    uniqueID: 1409927457
+    locked: 0
+  - name: Escenario
+    uniqueID: 1164766227
+    locked: 0
+  - name: Personajes y enemigos
+    uniqueID: 2699587613
+    locked: 0
+  - name: Decoracion
+    uniqueID: 185737183
+    locked: 0

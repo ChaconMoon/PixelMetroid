@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c2c1e807e4b02c14e9cdba02ba5f67ba
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - nivelInicio: {fileID: 102900000, guid: 2cda990e2423bbf4892e6590ba056729, type: 3}
+  - Creditos: {fileID: 102900000, guid: 37f6acec82089de448b5901dc37297cd, type: 3}
+  - Menu: {fileID: 102900000, guid: 546d3822fa882d248b020f1b4e0b0833, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
